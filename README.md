@@ -1,9 +1,11 @@
 # 🤖 ERP Functional Support GPT
 
 <p align="center">
-<a href="https://chatgpt.com/g/g-6ab8b5e7abb0819180f307c14b67ee3d-erp-functional-support-gpt">🚀 Try the Custom GPT</a> ·
-<a href="https://www.loom.com/share/85f0dd9c85394eada5128ec4bfe1233a">🎥 Loom Demo</a> ·
-<a href="Topic_14_ERP_Functional_Support_GPT_Assessment.pdf">📄 Assessment PDF</a>
+  <a href="https://chatgpt.com/g/g-6ab8b5e7abb0819180f307c14b67ee3d-erp-functional-support-gpt"><img src="https://img.shields.io/badge/🚀%20OPEN%20CUSTOM%20GPT-111827?style=for-the-badge" alt="Open Custom GPT"></a>
+  &nbsp;
+  <a href="https://www.loom.com/share/85f0dd9c85394eada5128ec4bfe1233a"><img src="https://img.shields.io/badge/🎥%20WATCH%20LOOM%20DEMO-6d28d9?style=for-the-badge" alt="Watch Loom Demo"></a>
+  &nbsp;
+  <a href="https://github.com/shaikshahid777/ERP-Functional-Support-GPT/blob/main/Topic_14_ERP_Functional_Support_GPT_Assessment.pdf"><img src="https://img.shields.io/badge/📄%20VIEW%20ASSESSMENT%20PDF-0f766e?style=for-the-badge" alt="View Assessment PDF"></a>
 </p>
 
 <p align="center"><b>Module-aware • Role-aware • Documentation-grounded • Guidance-only</b></p>
